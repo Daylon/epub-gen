@@ -1,5 +1,5 @@
-# Generated files
-lib
+# Generated files [should be available on import]
+# lib
 
 # Tests files
 tempDir/*
