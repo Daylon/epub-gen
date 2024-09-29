@@ -21,6 +21,10 @@
 		"html"
 	],
 	"type": "module",
+	"exports": {
+		"import": "./lib/index.js",
+		"require": "./lib/index.js"
+	},
 	"main": "./lib/index.js",
 	"types": "./lib/index.d.ts",
 	"files": [
