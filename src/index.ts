@@ -841,3 +841,5 @@ export class EPub {
     });
   }
 }
+
+module.exports = { EPub }
